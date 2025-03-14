@@ -1,5 +1,5 @@
 # KidsFirstWebsite
-A cool project for kids , how to make their own website!
+A cool project for kids , how to make your own website!
 Welcome , kids coder! This project helps you to make your own website . cool eh 😁
 
 ## What's in here ?
